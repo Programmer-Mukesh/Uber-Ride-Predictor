@@ -1,0 +1,5 @@
+import pickle
+model=pickle.load(open('taxi.pkl','rb'))
+
+#prediction set of data
+print("No. of rides=",model.predict([[80,1770000,6000,85]]))
