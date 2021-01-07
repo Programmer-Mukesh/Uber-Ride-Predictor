@@ -1,0 +1,4 @@
+X=data.iloc[:,0:-1].values
+y=data.iloc[:,-1].values
+X
+y
