@@ -1,0 +1,2 @@
+import pickle
+model=pickle.load(open('taxi.pkl','rb'))
