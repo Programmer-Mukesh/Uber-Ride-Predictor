@@ -3,4 +3,4 @@ Uber Ride Predictor is a python code for predicting the uber rides using Data Sc
 
 In this code I'm using Numpy, pandas and pickle liberaries 
 Then uploading Data of Taxi Rides which we'll be using for prediction.
-And using KNN algoithm of ML on Data set.
+And using Linear Regression algoithm of ML on Data set.
