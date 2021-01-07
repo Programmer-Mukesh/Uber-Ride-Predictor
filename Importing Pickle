@@ -1,0 +1,2 @@
+import pickle
+pickle.dump(reg,open('Taxi.pkl','wb'))
